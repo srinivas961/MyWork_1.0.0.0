@@ -2,7 +2,6 @@
 #include<stdlib.h>
 
 
-
 // An AVL tree node
 struct node
 
