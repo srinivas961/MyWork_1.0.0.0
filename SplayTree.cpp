@@ -4,15 +4,12 @@
 
 
 // An AVL tree node
-
 struct node
 
 {
-
 	int key;
 
 	struct node *left, *right;
-
 };
 
 
